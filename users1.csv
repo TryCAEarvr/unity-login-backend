@@ -1,3 +1,15 @@
-email,password
-"inya@trycae.ac.in	",9874691286
-lkg@trycae.ac.in,9579641586
+git init
+git remote add origin https://github.com/TryCAEarvr/unity-login-backend.git
+git add .
+git commit -m "Initial backend login commit"
+git push -u origin master
+
+
+
+
+
+
+
+
+git config --global user.name "TryCAEarvr"
+git config --global user.email "trycaearvr@gmail.com"
