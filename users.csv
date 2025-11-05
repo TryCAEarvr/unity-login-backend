@@ -1,8 +1,8 @@
-email,password
-abc@organization.ac.in,9876543210
-def@organization.ac.in,9123456789
-ghi@trycae.ac.in,9458612762
-try@trycae.ac.in,9458627619
-kalyani@trycae.ac.in,8098446219
-kiran@trycae.ac.in,8098446218
-abishek@trycae.ac.in,8098446217
+email,password,subscribed,expiry,productId
+abc@organization.ac.in,9876543210,,,
+def@organization.ac.in,9123456789,,,
+ghi@trycae.ac.in,9458612762,,,
+try@trycae.ac.in,9458627619,,,
+kalyani@trycae.ac.in,8098446219,,,
+kiran@trycae.ac.in,8098446218,,,
+abishek@trycae.ac.in,8098446217,,,
